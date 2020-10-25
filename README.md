@@ -1,2 +1,0 @@
-# MyRepo
-for testing purpose
